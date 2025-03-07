@@ -1,5 +1,7 @@
 # Email-Spam-Classifier
 
+ [![MasterHead](https://dataaspirant.com/wp-content/uploads/2020/07/Email-classifier-spacy-python-final.png)](https://Avinraj01.io)
+
 This is an Email Spam Classifier project that uses Machine Learning to detect spam emails. The project is built using Python and includes a trained model for classification.
 
 ## Features
