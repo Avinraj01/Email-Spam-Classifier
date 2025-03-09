@@ -9,6 +9,10 @@ This is an Email Spam Classifier project that uses Machine Learning to detect sp
 - Implements text vectorization for feature extraction.
 - Provides a simple web-based interface (if applicable).
 
+  
+ [![MasterHead](https://ars.els-cdn.com/content/image/1-s2.0-S1568494623002442-ga1_lrg.jpg)](https://Avinraj01.io)
+
+ 
 ## Installation
 
 1. Clone the repository:
